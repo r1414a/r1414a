@@ -6,15 +6,26 @@ I'm a Pune-based **Frontend / MERN Stack Developer** with a Bachelor's degree in
 
 ---
 
+### 🛠️ Tech Stack
+
+#### 👨‍🎨 Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+#### 🖥️ Backend  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
+
+#### 🗄️ Database  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
 ### 💬 More About Me
 
 Apart from coding, I love:
-- 🏃‍♂️ Running
-- 🎧 Music
-- 🍳 Cooking
-- 🎥 Watching Series
-- 🛹 Skating (yes, I’m trained!)
-- 🏏 Playing Cricket & ⚽ Football
+- 🏃‍♂️ Running  
+- 🎧 Music  
+- 🍳 Cooking  
+- 🎥 Watching Series  
+- 🛹 Skating (yes, I’m trained!)  
+- 🏏 Playing Cricket & ⚽ Football  
 - 👀 Observing People (keen observer!)
 
 ---
@@ -24,17 +35,3 @@ Apart from coding, I love:
 **📞** +91 9637609051  
 **📧** rupeshchincholkar14@gmail.com  
 [🌐 Portfolio](https://r1414a.github.io/portfolio-website/) • [💼 LinkedIn](https://www.linkedin.com/in/rupesh-chincholkar-08bb7612b/) • [🐙 GitHub](https://github.com/r1414a)
-
----
-
-### 💬 Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
-
-### 💬 Backend
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
-
-### 💬 Database
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
