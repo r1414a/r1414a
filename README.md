@@ -59,6 +59,5 @@ Apart from coding, I love:
 
 ### 📫 Let's Connect
 
-**📞** +91 9637609051  
 **📧** rupeshchincholkar14@gmail.com  
 [🌐 Portfolio](https://r1414a.github.io/portfolio-website/) • [💼 LinkedIn](https://www.linkedin.com/in/rupesh-chincholkar-08bb7612b/) • [🐙 GitHub](https://github.com/r1414a)
