@@ -5,18 +5,42 @@ I'm a Pune-based **Frontend / MERN Stack Developer** with a Bachelor's degree in
 🔗 Connect with me to create something unique and impactful.
 
 ---
-
-### 🛠️ Tech Stack
-
-#### 👨‍🎨 Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
-
-#### 🖥️ Backend  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
-
-#### 🗄️ Database  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
+<table width="100%">
+  <tr width="100%">
+    <td>      
+<h3>🛠️ Tech Stack</h3>
+<table>
+  <tr>
+    <td>      
+      <h4>👨‍🎨 Frontend</h4>
+    </td>
+    <td>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+    </td>
+  </tr>
+  <tr>
+    <td>      
+      <h4>🖥️ Backend</h4>
+    </td>
+    <td>
+      
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
+    </td>
+  </tr>
+  <tr>
+     <td>      
+      <h4>🗄️ Database</h4>
+    </td>
+    <td>
+      
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+    </td>
+  </tr>
+</table>
+    </td>
+    <td>
+    
 ### 💬 More About Me
 
 Apart from coding, I love:
@@ -27,6 +51,9 @@ Apart from coding, I love:
 - 🛹 Skating (yes, I’m trained!)  
 - 🏏 Playing Cricket & ⚽ Football  
 - 👀 Observing People (keen observer!)
+    </td>
+  </tr>
+</table>
 
 ---
 
