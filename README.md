@@ -4,6 +4,8 @@ I'm a Pune-based **Frontend / MERN Stack Developer** with a Bachelor's degree in
 
 🔗 Connect with me to create something unique and impactful.
 
+---
+
 ### 💬 More About Me
 
 Apart from coding, I love:
@@ -21,4 +23,18 @@ Apart from coding, I love:
 
 **📞** +91 9637609051  
 **📧** rupeshchincholkar14@gmail.com  
-[🌐 Portfolio](#) • [💼 LinkedIn](#) • [🐙 GitHub](https://github.com/r1414a)
+[🌐 Portfolio](https://r1414a.github.io/portfolio-website/) • [💼 LinkedIn](https://www.linkedin.com/in/rupesh-chincholkar-08bb7612b/) • [🐙 GitHub](https://github.com/r1414a)
+
+---
+
+### 💬 Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+### 💬 Backend
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug)](https://skillicons.dev)
+
+### 💬 Database
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
